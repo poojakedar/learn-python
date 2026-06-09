@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Learn Python",
+    "done": true
+  },
+  {
+    "title": "Practice loops",
+    "done": true
+  },
+  {
+    "title": "cooking",
+    "done": false
+  },
+  {
+    "title": "reading",
+    "done": false
+  },
+  {
+    "title": "writing",
+    "done": false
+  },
+  {
+    "title": "shopping",
+    "done": false
+  }
+]
