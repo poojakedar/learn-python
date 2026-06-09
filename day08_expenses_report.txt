@@ -1,0 +1,8 @@
+Expense Report
+==============
+food: 20.0
+electornics: 40.0
+food: 60.0
+travel: 70.0
+travel: 140.0
+Total: 330.0
