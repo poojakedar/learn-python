@@ -23,5 +23,8 @@ Use this folder to read theory in simple language before writing code.
 - day10_capstone_concepts.md
 - day11_modules_project_structure_concepts.md
 - day12_builtin_functions_concepts.md
+- day13_packages_and_pip_concepts.md
+- day14_builtin_libraries_concepts.md
+- day15_third_party_library_concepts.md
 
 I can create more concept files in the same format for every next day.
