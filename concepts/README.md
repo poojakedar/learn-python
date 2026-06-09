@@ -26,5 +26,7 @@ Use this folder to read theory in simple language before writing code.
 - day13_packages_and_pip_concepts.md
 - day14_builtin_libraries_concepts.md
 - day15_third_party_library_concepts.md
+- day16_unittest_basics_concepts.md
+- day17_debugging_basics_concepts.md
 
 I can create more concept files in the same format for every next day.

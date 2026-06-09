@@ -1,5 +1,9 @@
 {
   "python.defaultInterpreterPath": "C:/Users/poojakedar/AppData/Local/Programs/Python/Python310/python.exe",
   "python.terminal.activateEnvironment": true,
-  "files.autoSave": "afterDelay"
+  "files.autoSave": "afterDelay",
+  "python.analysis.extraPaths": [
+    "./exercises",
+    "./exercises"
+  ]
 }
