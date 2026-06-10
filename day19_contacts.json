@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pooja",
+    "phone": "111-222-3333",
+    "city": "Pune"
+  },
+  {
+    "name": "Asha",
+    "phone": "444-555-6666",
+    "city": "Mumbai"
+  },
+  {
+    "name": "Ravi",
+    "phone": "777-888-9999",
+    "city": "Delhi"
+  }
+]
