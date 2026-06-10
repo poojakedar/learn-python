@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Practice CLI",
+    "done": true
+  },
+  {
+    "title": "Practice JSON",
+    "done": false
+  },
+  {
+    "title": "Learn capstone",
+    "done": true
+  },
+  {
+    "title": "Learn capstone part 2",
+    "done": false
+  }
+]
