@@ -32,5 +32,7 @@ Use this folder to read theory in simple language before writing code.
 - day19_json_data_files_concepts.md
 - day20_capstone_app_concepts.md
 - day21_api_basics_concepts.md
+- day22_refactoring_basics_concepts.md
+- day23_file_folder_automation_concepts.md
 
 I can create more concept files in the same format for every next day.
