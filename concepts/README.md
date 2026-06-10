@@ -28,5 +28,6 @@ Use this folder to read theory in simple language before writing code.
 - day15_third_party_library_concepts.md
 - day16_unittest_basics_concepts.md
 - day17_debugging_basics_concepts.md
+- day18_cli_args_concepts.md
 
 I can create more concept files in the same format for every next day.
